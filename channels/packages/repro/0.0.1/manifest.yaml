@@ -1,0 +1,7 @@
+# Placeholder manifest - replace with the manifest for your addon
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: repro
+data:
+  this: is just an example
